@@ -1,16 +1,8 @@
-# myapp
+# Weather_App
 
-A new Flutter project.
+A weather app that tells the weather of a place using openweather API.
 
-## Getting Started
+Preview of the app.
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-04-22 at 00 20 18_ac942bf5](https://github.com/jiashah/Weather_app/assets/143675641/ce15212e-8573-458c-b4dc-08110ab4f8cd)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
